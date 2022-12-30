@@ -1,4 +1,5 @@
-<img src="https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png" alt="logo" height="300" width="1200"/>
+<img src="https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png" alt="Banner" height="300" width="100%"/>
+<!-- ![logo](https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png) -->
 <h1 align="center">Hi 👋, I'm Prathya Thakur</h1>
 <h3 align="center">I'm a code wizard with a love for all things technical. I can turn lines of code into magic, and I'm always up for a good challenge. When I'm not busy making computers do my bidding, you can find me nerding out over the latest programming languages and technologies. Just don't ask me to fix your home computer - I'm a professional, not a superhero.</h3>
 
@@ -9,6 +10,8 @@
 - 📫 Reach me **prathya2410@gmail.com**
 
 - 🖲 My [resume](https://drive.google.com/uc?export=download&id=1p91Sq9kTqUZvHhokCWVivQDoyHO9N7vO)
+
+- 🖱 My [projects](https://docs.google.com/document/d/1d88_vRkBJf7xKNk7n-H9lQ8LUVzA1jETXOuAcGffIXk/edit#heading=h.l28qqe692yqy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
