@@ -9,7 +9,7 @@
 
 - 📫 Reach me **prathya2410@gmail.com**
 
-- 🖲 My [resume](https://drive.google.com/file/d/17gIbFWSZYZpRH7r8vEgerYrf-0sCgRXq/view)
+- 🖲 My [resume](https://drive.google.com/file/d/1A9ctiO-hi7LJu5rzAXms2x3DIhkGN9oK/view?usp=sharing)
 
 - 🖱 My [projects](https://docs.google.com/document/d/1d88_vRkBJf7xKNk7n-H9lQ8LUVzA1jETXOuAcGffIXk/edit#heading=h.l28qqe692yqy)
 
