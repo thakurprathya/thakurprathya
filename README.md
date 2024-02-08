@@ -9,13 +9,13 @@
 
 - 📫 Reach me **prathya2410@gmail.com**
 
-- 🖲 My [resume](https://drive.google.com/file/d/1-K85WzVBeDK5tFGQSAO62cXCoCMnlzlc/view)
+- 🖲 My [resume](https://drive.google.com/file/d/1Ql1IBc9hORJ3xbX9v-UwUx99duMOmnQB/view)
 
 - 🖱 My [projects](https://docs.google.com/document/d/1d88_vRkBJf7xKNk7n-H9lQ8LUVzA1jETXOuAcGffIXk/edit#heading=h.l28qqe692yqy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prathya-thakur-370869231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathya thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thakurprathya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathya thakur" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thakurprathya" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="thakurprathya" height="30" width="40" /></a>
 </p>
 
