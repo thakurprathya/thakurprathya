@@ -33,7 +33,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/thakurprathya"><img src="https://github-readme-streak-stats.herokuapp.com?user=thakurprathya&theme=highcontrast" alt="Github Streak Stats" width="370"></a>
+<!--   <a href="https://github.com/thakurprathya"><img src="https://github-readme-streak-stats.herokuapp.com?user=thakurprathya&theme=highcontrast" alt="Github Streak Stats" width="370"></a> -->
   <a href="https://github.com/thakurprathya"><img src="https://github-readme-stats.vercel.app/api?username=thakurprathya&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" alt="Github Stats" width="350"></a>
 </p>
 
