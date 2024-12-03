@@ -1,7 +1,7 @@
 <img src="https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png" alt="Banner" height="300" width="100%"/>
 <!-- ![logo](https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png) -->
-<h1 align="center">Hi 👋, I'm Prathya Thakur</h1>
-<h3 align="center">I'm a code wizard with a love for all things technical. I can turn lines of code into magic, and I'm always up for a good challenge. When I'm not busy making computers do my bidding, you can find me nerding out over the latest programming languages and technologies. Just don't ask me to fix your home computer - I'm a professional, not a superhero.</h3>
+<h1 align="center">I'm Prathya Thakur</h1>
+<h3 align="center">Code Wizard with a love for all things technical. I can turn lines of code into magic, and I'm always up for a good challenge. When I'm not busy over some project or problem, you can find me nerding out over the latest technologies. Just don't ask me to fix your computer (I can fix it 😉) but I'm a professional, not a superhero...</h3>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurprathya&label=Profile%20views&color=b02908&style=flat" alt="thakurprathya" /> </p>
