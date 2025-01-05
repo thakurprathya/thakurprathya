@@ -1,6 +1,6 @@
 <img src="https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png" alt="Banner" height="300" width="100%"/>
 <!-- ![logo](https://github.com/thakurprathya/thakurprathya/blob/main/Github%20Banner.png) -->
-<h1 align="center">I'm Prathya Thakur</h1>
+
 <h3 align="center">Code Wizard with a love for all things technical. I can turn lines of code into magic, and I'm always up for a good challenge. When I'm not busy over some project or problem, you can find me nerding out over the latest technologies. Just don't ask me to fix your computer, I can fix it 😉 but I'm a professional not a superhero...</h3>
 
 <hr>
