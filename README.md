@@ -4,8 +4,7 @@
   <h1>Hi, I'm Prathya Thakur! 👋</h1>
   
   <h3>
-    Software Engineer <br/>
-    I combine strong algorithmic foundations with practical engineering to build reliable, scalable systems.
+    Software Engineer
   </h3>
 
   <p>
