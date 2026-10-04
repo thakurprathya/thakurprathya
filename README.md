@@ -19,7 +19,7 @@
     <a href="mailto:prathya2410@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://drive.google.com/file/d/1y9GspT2dCu0-rssAgbvg_L5L4p1Whcix/view">
+    <a href="https://drive.google.com/file/d/15Dq0eWdfc2cbMsLnGBHE_VCMyKIbotFA/view">
       <img src="https://img.shields.io/badge/Resume-View_PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
     <a href="https://thakurprathya-portfolio.netlify.app/">
